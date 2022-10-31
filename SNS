@@ -105,7 +105,7 @@ http://cdn01.palki.tv/live/DeeptoTV-M/index.fmp4.m3u8
 http://cdn01.palki.tv/live/Duronto-M/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/ekattortv.png" group-title="Bangla",Ekattor TV (p)
-http://cdn01.palki.tv/live/EkhonTV-M/index.fmp4.m3u8
+http://cdn01.palki.tv/live/EkattorTV-M/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/etv.jpg" group-title="Bangla",Ekushey TV (BDIX10)
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
