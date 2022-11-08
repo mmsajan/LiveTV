@@ -101,6 +101,12 @@ http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/deeptotv.png" group-title="Bangla",Deepto TV (p)
 http://cdn01.palki.tv/live/DeeptoTV-M/index.fmp4.m3u8
 
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/deeptotv.png" group-title="Bangla",Deepto TV 
+http://208.86.19.13:81/677.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/deshtv.png" group-title="Bangla",DESH TV 
+https://s1.bdtv.xyz:2096/token/desh/chunks.m3u8?|Referer=http://bdiptv.stream/
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla",Duronto TV (p)
 http://cdn01.palki.tv/live/Duronto-M/index.fmp4.m3u8
 
@@ -168,8 +174,14 @@ http://172.16.50.2:8082/Live-Sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha HD (BDIX8)
 http://172.16.50.2:8082/Star-Jalsha/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha HD (a)
+https://tvs1.aynaott.com/StarJalshaHd/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla HD (BDIX8)
 http://172.16.50.2:8082/ZeeBanglaHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Bangla",Zee Bangla HD (a)
+https://tvs1.aynaott.com/ZeeBangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/zeebanglacinema.png" group-title="Bangla",Zee Bangla Cinema (BDIX8)
 http://172.16.50.2:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8
